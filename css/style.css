@@ -8,7 +8,8 @@ header{
     margin: 0;
 }
 .logo{
-    width: 150px;
+    width: 180px;
+    margin-top: 50px;
 }
 /* endregion header */
 
@@ -20,7 +21,7 @@ header{
     margin-top: 5px;
     background-image: url('../img/graph.jpg');
 }
-main,footer{
+main,footer,#logo-box{
     width: 60%;
     margin: auto;
 }
