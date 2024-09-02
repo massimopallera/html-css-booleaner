@@ -67,6 +67,9 @@ h3,h5,h4{
 .highlight{
     background-color: yellow;
 }
+table{
+    border-collapse: collapse;
+}
 /* endregion main */
 /* region footer */
 
